@@ -1,6 +1,7 @@
 # MDP REPRESENTATION
 
 ## AIM:
+Write your aim here
 
 ## PROBLEM STATEMENT:
 
@@ -29,7 +30,7 @@ Write your answer here
 Write your code here
 
 ## OUTPUT:
-Write your python output here
+Write your Python output here
 
 ## RESULT:
 Write your output here
